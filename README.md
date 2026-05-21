@@ -1,6 +1,8 @@
 # Miles Johnson
 
-**Business operations · workflow automation · AI-assisted product builds**
+**Business ops & automation** · Python · SQL · VBA · React · Supabase · Santa Monica, CA
+
+*Workflow automation & AI-assisted product builds*
 
 I break down messy operational workflows and ship automations that remove manual bottlenecks — from Excel/VBA and Power Automate at portfolio scale to full-stack tools with GenAI-assisted development.
 
