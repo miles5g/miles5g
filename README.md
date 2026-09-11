@@ -13,12 +13,12 @@ I break down messy operational workflows and ship automations that remove manual
 
 | Project | Description |
 |---------|-------------|
-| [**career-hunt**](https://github.com/miles5g/career-hunt) | ATS job poller + rubric scoring for an ops/bizops search |
-| [**job-tool**](https://github.com/miles5g/job-tool) | Local-first job scorer & tracker (no account, data stays in browser) |
 | [**ListSnap**](https://github.com/miles5g/listsnap) | AI photo → marketplace listing (React, Supabase edge functions) |
+| [**job-tool**](https://github.com/miles5g/job-tool) | Local-first job scorer & tracker (no account, data stays in browser) |
 | [**skilltree**](https://github.com/miles5g/skilltree) | Anti-creep PM skill tree — PEMDAS MVP, bones first |
-| [**TikTok Live Bridge**](https://github.com/miles5g/tiktok-live-bridge) | Live chat → avatar queue (Node ↔ Roblox, VIP gift priority) |
-| [**El Paletero**](https://github.com/miles5g/paletero) | Godot 4 FPS prototype — physics cart, procedural city, NPC economy |
+| [**AP/AR Intake Router**](https://github.com/miles5g/ap-ar-intake-router) | Synthetic multi-entity AP/AR intake → classify → route |
+| [**Invoice Email Triage**](https://github.com/miles5g/invoice-email-triage) | Synthetic invoice/email triage agent-loop demo |
+| [**Ops Report Pack**](https://github.com/miles5g/ops-report-pack) | Synthetic ops report pack generator |
 
 ---
 
