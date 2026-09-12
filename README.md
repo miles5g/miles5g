@@ -13,12 +13,12 @@ I break down messy operational workflows and ship automations that remove manual
 
 | Project | Description |
 |---------|-------------|
+| [**cc-expense-coder**](https://github.com/miles5g/cc-expense-coder) | Multi-entity credit-card coding bot — clean → split → code → journal (synthetic) |
+| [**brokerage-statement-bot**](https://github.com/miles5g/brokerage-statement-bot) | Brokerage month-end updater — transfers → YTD map → journal (synthetic) |
+| [**ap-ar-intake-router**](https://github.com/miles5g/ap-ar-intake-router) | AP/AR intake → classify → route + balanced journal pack (synthetic) |
 | [**ListSnap**](https://github.com/miles5g/listsnap) | AI photo → marketplace listing (React, Supabase edge functions) |
 | [**job-tool**](https://github.com/miles5g/job-tool) | Local-first job scorer & tracker (no account, data stays in browser) |
 | [**skilltree**](https://github.com/miles5g/skilltree) | Anti-creep PM skill tree — PEMDAS MVP, bones first |
-| [**AP/AR Intake Router**](https://github.com/miles5g/ap-ar-intake-router) | Synthetic multi-entity AP/AR intake → classify → route |
-| [**Invoice Email Triage**](https://github.com/miles5g/invoice-email-triage) | Synthetic invoice/email triage agent-loop demo |
-| [**Ops Report Pack**](https://github.com/miles5g/ops-report-pack) | Synthetic ops report pack generator |
 
 ---
 
