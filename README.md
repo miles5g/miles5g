@@ -9,15 +9,15 @@ I turn messy operational workflows into runnable automations — close-period co
 
 ---
 
-## Selected work (interview demos)
+## Ops demo bots
 
-| Project | 30-sec demo |
-|---------|-------------|
-| [**cc-expense-coder**](https://github.com/miles5g/cc-expense-coder) | `python3 -m cc_coder` — CC clean → split → code → journal |
-| [**brokerage-statement-bot**](https://github.com/miles5g/brokerage-statement-bot) | `python -m brokerage_bot` — transfers → YTD map → journal |
-| [**ap-ar-intake-router**](https://github.com/miles5g/ap-ar-intake-router) | `python3 -m apar_router` — intake → route → journal pack |
+Small Python bots for close-period work. Synthetic data only (comic-book names, round dollars, dummy GLs).
 
-All three use **synthetic data only** (comic-book names, round dollars, dummy GLs).
+| Project | What it does |
+|---------|--------------|
+| [**cc-expense-coder**](https://github.com/miles5g/cc-expense-coder) | Multi-entity credit-card coding: clean → split → code → journal. `python3 -m cc_coder` |
+| [**brokerage-statement-bot**](https://github.com/miles5g/brokerage-statement-bot) | Brokerage month-end: transfers → YTD map → journal. `python3 -m brokerage_bot` |
+| [**ap-ar-intake-router**](https://github.com/miles5g/ap-ar-intake-router) | AP/AR intake: classify → route → journal pack. `python3 -m apar_router` |
 
 ## Also worth a look
 
