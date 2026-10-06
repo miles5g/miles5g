@@ -1,38 +1,25 @@
 # Miles Johnson
 
-**AI ops & vibecoding** · Python · SQL · VBA · React · Supabase · Cursor · Santa Monica, CA · open to US remote
+AI and process automation lead at a Los Angeles business management firm. I find the slow, manual parts of operations and replace them with software people actually use: 6 production LLM workflows across 30 entities and $100M+ in client assets.
 
-I turn messy operational workflows into runnable automations — close-period coding, statement updates, AP/AR triage — and ship full-stack tools with GenAI-assisted development.
+Santa Monica, CA | [LinkedIn](https://www.linkedin.com/in/milesjohnsondata) | [milesjohnsondata@gmail.com](mailto:milesjohnsondata@gmail.com)
 
-📍 Santa Monica, CA  
-🔗 [LinkedIn](https://www.linkedin.com/in/milesjohnsondata) · [Email](mailto:milesjohnsondata@gmail.com)
+## Finance automation demos
 
----
+Public rebuilds of three workflows I run at work, on fake data. Each one runs in about 30 seconds with plain Python, nothing to install.
 
-## Ops demo bots
+| Repo | What it does | Run |
+| --- | --- | --- |
+| [cc-expense-coder](https://github.com/miles5g/cc-expense-coder) | Credit card statement in, balanced journals per entity out. Optional Claude step for rows the rules cannot code. | `python3 -m cc_coder` |
+| [brokerage-statement-bot](https://github.com/miles5g/brokerage-statement-bot) | Brokerage statement in, transfers list, balance map, and journal out. | `python3 -m brokerage_bot` |
+| [ap-ar-intake-router](https://github.com/miles5g/ap-ar-intake-router) | Sorts invoices and payments by company and problem, routes them to queues, writes journals. | `python3 -m apar_router` |
 
-Small Python bots for close-period work. Synthetic data only (comic-book names, round dollars, dummy GLs).
+## Apps
 
-| Project | What it does |
-|---------|--------------|
-| [**cc-expense-coder**](https://github.com/miles5g/cc-expense-coder) | Multi-entity credit-card coding: clean → split → code → journal. `python3 -m cc_coder` |
-| [**brokerage-statement-bot**](https://github.com/miles5g/brokerage-statement-bot) | Brokerage month-end: transfers → YTD map → journal. `python3 -m brokerage_bot` |
-| [**ap-ar-intake-router**](https://github.com/miles5g/ap-ar-intake-router) | AP/AR intake: classify → route → journal pack. `python3 -m apar_router` |
+| Repo | What it does |
+| --- | --- |
+| [listsnap](https://github.com/miles5g/listsnap) | Take a photo of an item, get a ready-to-post marketplace listing. React, TypeScript, Supabase, vision LLM. |
 
-## Also worth a look
+## Tools
 
-| Project | Description |
-|---------|-------------|
-| [**ListSnap**](https://github.com/miles5g/listsnap) | AI photo → marketplace listing |
-| [**job-tool**](https://github.com/miles5g/job-tool) | Local-first job scorer & tracker |
-| [**skilltree**](https://github.com/miles5g/skilltree) | Anti-creep PM skill tree (PEMDAS MVP) |
-
----
-
-## Stack
-
-`Python` · `SQL` · `VBA / Excel` · `Power Automate` · `Node.js` · `React / TypeScript` · `Supabase` · `Playwright` · `Godot / GDScript` · `LLMs / Cursor`
-
----
-
-Business Operations Analyst @ **Gursey | Schneider LLP** — reconciliation automation, billing pipelines, and client comms across $100M+ portfolios.
+Python, SQL, VBA, TypeScript, React, Supabase, Power Automate, Claude, OpenAI GPT, Cursor
